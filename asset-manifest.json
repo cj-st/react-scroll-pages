@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-scroll-pages/static/css/main.e8194bdf.chunk.css",
+    "main.js": "/react-scroll-pages/static/js/main.d6e1f0ed.chunk.js",
+    "main.js.map": "/react-scroll-pages/static/js/main.d6e1f0ed.chunk.js.map",
+    "runtime-main.js": "/react-scroll-pages/static/js/runtime-main.fe66f367.js",
+    "runtime-main.js.map": "/react-scroll-pages/static/js/runtime-main.fe66f367.js.map",
+    "static/js/2.0646f802.chunk.js": "/react-scroll-pages/static/js/2.0646f802.chunk.js",
+    "static/js/2.0646f802.chunk.js.map": "/react-scroll-pages/static/js/2.0646f802.chunk.js.map",
+    "index.html": "/react-scroll-pages/index.html",
+    "static/css/main.e8194bdf.chunk.css.map": "/react-scroll-pages/static/css/main.e8194bdf.chunk.css.map",
+    "static/js/2.0646f802.chunk.js.LICENSE.txt": "/react-scroll-pages/static/js/2.0646f802.chunk.js.LICENSE.txt",
+    "static/media/CLogo-trans.df03c876.gif": "/react-scroll-pages/static/media/CLogo-trans.df03c876.gif",
+    "static/media/Virus-dark.b7f141c5.svg": "/react-scroll-pages/static/media/Virus-dark.b7f141c5.svg",
+    "static/media/Virus-light.7df40991.svg": "/react-scroll-pages/static/media/Virus-light.7df40991.svg",
+    "static/media/Weather.css": "/react-scroll-pages/static/media/weather.083a7b16.svg",
+    "static/media/middle-1.5b116e50.svg": "/react-scroll-pages/static/media/middle-1.5b116e50.svg",
+    "static/media/middle-2.5063ea4e.svg": "/react-scroll-pages/static/media/middle-2.5063ea4e.svg",
+    "static/media/middle-mask.cc9c9504.svg": "/react-scroll-pages/static/media/middle-mask.cc9c9504.svg",
+    "static/media/svg-1.8f199481.svg": "/react-scroll-pages/static/media/svg-1.8f199481.svg",
+    "static/media/svg-2.2115e261.svg": "/react-scroll-pages/static/media/svg-2.2115e261.svg",
+    "static/media/svg-3.49cb82da.svg": "/react-scroll-pages/static/media/svg-3.49cb82da.svg",
+    "static/media/video.59e75226.mp4": "/react-scroll-pages/static/media/video.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe66f367.js",
+    "static/js/2.0646f802.chunk.js",
+    "static/css/main.e8194bdf.chunk.css",
+    "static/js/main.d6e1f0ed.chunk.js"
+  ]
+}
