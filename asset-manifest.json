@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-scroll-pages/static/css/main.e8194bdf.chunk.css",
-    "main.js": "/react-scroll-pages/static/js/main.1f9f3c0b.chunk.js",
-    "main.js.map": "/react-scroll-pages/static/js/main.1f9f3c0b.chunk.js.map",
+    "main.js": "/react-scroll-pages/static/js/main.19069106.chunk.js",
+    "main.js.map": "/react-scroll-pages/static/js/main.19069106.chunk.js.map",
     "runtime-main.js": "/react-scroll-pages/static/js/runtime-main.fe66f367.js",
     "runtime-main.js.map": "/react-scroll-pages/static/js/runtime-main.fe66f367.js.map",
     "static/js/2.b697a411.chunk.js": "/react-scroll-pages/static/js/2.b697a411.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.fe66f367.js",
     "static/js/2.b697a411.chunk.js",
     "static/css/main.e8194bdf.chunk.css",
-    "static/js/main.1f9f3c0b.chunk.js"
+    "static/js/main.19069106.chunk.js"
   ]
 }
